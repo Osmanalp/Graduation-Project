@@ -1,2 +1,6 @@
 # Graduation-Project
 Classification of EEG data using Deep Learning
+
+Epilepsy is the most common neurological disease in the world. Epilepsy occurs as a result of abnormal electrical activity in the nerve cells of the brain and causes many disorders, including temporary loss of consciousness in the patient. Epilepsy diagnosis is made by examining and interpreting EEG data. EEG data are signs that are chaotic and difficult to analyze. Examination of EEG data is carried out by neurologists. These investigations cause human-caused errors, so they lead to misdiagnosis of the disease. Many studies have been carried out in this area, such as clearing EEG data, crisis moment detection and classification using deep learning methods. In this way, the noise on the EEG data was cleared, crisis moments and epileptic signs were detected. This thesis classified clean and noisy EEG data using recursive artificial neural networks. The application was made using the” pytorch “library, which is widely used in the” python " language. It is aimed to determine whether the signal is a clean or a noisy signal by giving the clean and noisy EEG data that we have into the artificial neural network that we have developed.
+
+KEYWORDS: Recurrent Neural Network, EEG, Classification
